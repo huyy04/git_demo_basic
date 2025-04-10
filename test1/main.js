@@ -13,6 +13,4 @@ for (startDay ; startDay <= endDay ; startDay++) {
 
 }
 console.log(saveDays);
-
-
-
+console.log('hello world');

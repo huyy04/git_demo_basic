@@ -3,3 +3,18 @@
 
 2 dua them file vao stagging de commit
 -> git add 
+
+3 commit nhung file duoc add
+-> git commit -m "init commit"
+
+4 lien ket voi remote repository
+-> git remote add origin https://github.com/huyy04/git_demo_basic.git
+
+5 tao ra nhanh moi
+-> git branch -M main
+
+6 day code len remote
+-> git push origin main
+
+7 lay code tu remote ve
+-> git pull origin main
